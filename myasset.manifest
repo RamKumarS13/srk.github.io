@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1572158202
+CRC: 2394065656
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 05e0dfb6f409748d9b37588f6ac2f41f
+    Hash: 1f98434ed0d6d496d6ce17c31032540e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 848e8bf41a9290db639fc958fbe8c074
+    Hash: 4ca06b135f803735410326e1e56c74c8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,16 +15,22 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
-- Class: 33
+- Class: 28
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 135
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
   Script: {instanceID: 0}
 Assets:
-- Assets/Prefabs/Sphere.prefab
+- Assets/Hit.prefab
 Dependencies: []
